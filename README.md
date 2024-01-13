@@ -7,7 +7,7 @@ Hello there! 👋 I'm Evelyn Cassinotte, a graduate of a Computer Technician cou
 - **Creativity:** I thrive on exploring new ideas and bringing innovation to the table.
 - **Empathy:** I possess a strong sense of empathy, valuing the perspectives, opinions, and emotions of my co-workers.
 - **Technical Proficiency:** I have a solid foundation in programming logic and Database Development.
-- **Programming Languages:** Proficient in C#, Delphi, and Java.
+- **Programming Languages:** I have knowledge in C#, Delphi, and Java.
 - **Database Management Systems:** Experienced with SQL Server, MySQL, and PostgreSQL.
 - **Version Control:** Well-versed in the use of GIT distributed version control system, particularly on the GitHub platform.
 
