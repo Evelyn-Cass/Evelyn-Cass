@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm Evelyn Cassinotte, I'm currently studying Software Development at FATEC College, and I'm a graduate of a Computer Technician course at ETEC. Although my academic background initially didn't lead me into the programming field, I've circled back with a renewed passion for software development. My goal is to enhance my skills and contribute to the ever-evolving tech landscape.
+Hello there! I'm Evelyn Cassinotte, I'm currently studying Software Development at FATEC College and I'm a graduate of a Computer Technician course at ETEC. Although my academic background initially didn't lead me into the programming field, I've circled back with a renewed passion for software development. My goal is to enhance my skills and contribute to the ever-evolving tech landscape.
 
 ## What I Bring to the Table
 
