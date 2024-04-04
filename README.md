@@ -4,12 +4,12 @@ Hello there! I'm Evelyn Cassinotte, I'm currently studying Software Development 
 
 ## What I Bring to the Table
 
-- **Creativity:** I thrive on exploring new ideas and bringing innovation to the table.
+- **Creativity:** I find great joy in exploring new ideas and endeavor to bring innovation to the table.
 - **Empathy:** I possess a strong sense of empathy, valuing the perspectives, opinions, and emotions of my co-workers.
 - **Technical Proficiency:** I have a solid foundation in programming logic and Database Development.
 - **Programming Languages:** I have knowledge in C#, Delphi, and Java.
 - **Database Management Systems:** Experienced with SQL Server, MySQL, and PostgreSQL.
-- **Version Control:** Well-versed in the use of GIT distributed version control system, particularly on the GitHub platform.
+- **Version Control:** I've become familiar with the use of the GIT distributed version control system, particularly within the GitHub platform
 
 ## Why Software Development?
 
