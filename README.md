@@ -1,18 +1,20 @@
-# About Me
+Hello there!<br>
+I'm Evelyn Cassinotte, and I'm studying Software Development at FATEC - JAHU College.<br>
+I'm currently in the third semester of a six-semester program.<br>
+<br>
+I would like to explain a little about what I learned in each semester:<br>
 
-Hello there! I'm Evelyn Cassinotte, I'm currently studying Software Development at FATEC College and I'm a graduate of a Computer Technician course at ETEC. Although my academic background initially didn't lead me into the programming field, I've circled back with a renewed passion for software development. My goal is to enhance my skills and contribute to the ever-evolving tech landscape.
+**First Semester:**<br>
+- Database Modeling: I learned the theoretical aspects of relational databases and how to use DDL and DML commands.
+- Web Development I: I was introduced to HTML, CSS, and JavaScript.
+- Algorithms and Programming Logic: I learned how to think logically and create algorithms using VisualG.
 
-## What I Bring to the Table
+**Second Semester:**<br>
+- Relational Database: I was taught about procedures, aggregate functions, views, subqueries, and triggers.
+- Data Structure: Using JavaScript, we explored data types and data structures.
+- Programming Techniques I: Using PHP and MySQL, I learned Object-Oriented Programming.
+<br>
+In each semester, I needed to develop an Interdisciplinary Project to put my skills to the test. To fulfill this, I joined a team of women, and together we created
+Localize Jahu(https://github.com/Localize-Jahu/Localize-Jahu.github.io)
+, a platform to find events in Jaú City. In the first semester, we developed the frontend, and in the second, we applied Object-Oriented Programming using PHP and MySQL.
 
-- **Creativity:** I find great joy in exploring new ideas and endeavor to bring innovation to the table.
-- **Empathy:** I possess a strong sense of empathy, valuing the perspectives, opinions, and emotions of my co-workers.
-- **Technical Proficiency:** I have a solid foundation in programming logic and Database Development.
-- **Programming Languages:** I have knowledge in C#, Delphi, and Java.
-- **Database Management Systems:** Experienced with SQL Server, MySQL, and PostgreSQL.
-- **Version Control:** I've become familiar with the use of the GIT distributed version control system, particularly within the GitHub platform
-
-## Why Software Development?
-
-After a hiatus, I've decided to dive back into the world of software development. I'm excited about the challenges and opportunities ahead, as well as the chance to contribute to meaningful projects.
-
-Feel free to reach out if you have any questions, want to collaborate, or just chat about tech and innovation. Let's code something amazing together!
