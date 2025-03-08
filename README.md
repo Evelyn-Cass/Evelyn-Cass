@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=5000&pause=500&color=E55381&width=435&lines=Hello%2C+it's+Evelyn+Cassinottte!;I'm+a+Software+Developer+Student" alt="Evelyn Cassinotte"/>
 </a>
 
-
+##
+<br>
 I'm Evelyn Cassinotte, and I'm studying Software Development at FATEC - JAHU College.<br>
 I'm currently in the third semester of a six-semester program.<br>
 <br>
@@ -24,10 +25,17 @@ Localize Jahu(https://github.com/Localize-Jahu/Localize-Jahu.github.io)
 , a platform to find events in Jaú City. In the first semester, we developed the frontend, and in the second, we applied Object-Oriented Programming using PHP and MySQL.
 
 
-<br><br><br>
+## What I am Learning:
+
+
 <div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Cass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,figma,mysql,php)](https://github.com/Evelyn-Cass/)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Cass&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
