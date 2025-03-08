@@ -1,4 +1,9 @@
-## Hello there!<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E55381&height=120&section=header" alt="header"/> 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=5000&pause=500&color=E55381&width=435&lines=Hello%2C+it's+Evelyn+Cassinottte!;I'm+a+Software+Developer+Student" alt="Evelyn Cassinotte"/>
+</a>
+
+
 I'm Evelyn Cassinotte, and I'm studying Software Development at FATEC - JAHU College.<br>
 I'm currently in the third semester of a six-semester program.<br>
 <br>
@@ -18,3 +23,12 @@ In each semester, I needed to develop an Interdisciplinary Project to put my ski
 Localize Jahu(https://github.com/Localize-Jahu/Localize-Jahu.github.io)
 , a platform to find events in Jaú City. In the first semester, we developed the frontend, and in the second, we applied Object-Oriented Programming using PHP and MySQL.
 
+
+<br><br><br>
+<div align='center'>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Cass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E55381&height=120&section=footer" alt="footer"/>
