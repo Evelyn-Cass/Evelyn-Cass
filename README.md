@@ -26,7 +26,7 @@ Third Semester:<br>
 
 <br> In each semester, I needed to develop an Interdisciplinary Project to put my skills to the test. To fulfill this, I joined a team of women, and together we created [Localize Jahu](https://github.com/Localize-Jahu/Localize-Jahu.github.io), a platform to find events in Jaú City. In the first semester, we developed the frontend, and in the second, we applied Object-Oriented Programming using PHP and MySQL.
 
-In the third semester, I decided to challenge myself and take full responsibility for the project. I developed, on my own, a document management platform for CIPA (Internal Commission for Accident Prevention) at FATEC Jahu, using C# with ASP.NET MVC and MongoDB. This experience not only strengthened my technical skills but also tested my ability to manage an entire project independently — from planning and database design to front-end and back-end development.
+In the third semester, I decided to challenge myself and take full responsibility for the project. I developed, on my own, a document management platform for [CIPA (Internal Commission for Accident Prevention) at FATEC Jahu,](https://github.com/Evelyn-Cass/fatec-jahu-cipa) using C# with ASP.NET MVC and MongoDB. This experience not only strengthened my technical skills but also tested my ability to manage an entire project independently — from planning and database design to front-end and back-end development.
 ## What I am Learning:
 
 
