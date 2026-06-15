@@ -22,7 +22,7 @@ I'm looking for a Software Development Internship to apply my skills, work on re
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Cass&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelyn-Cass&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
